@@ -1,11 +1,17 @@
-.circleImage {
-	max-width:200px;
+.group {
+	width:100%;
+	background-color:red;
 }
 
 .personPanel {
 	margin:10px;
+	padding:0px;
+	max-width:300px;
+	height:530px;
+}
+
+.personPanelText {
 	padding:10px;
-	max-width:400px;
 }
 
 .pwNinja_img {
