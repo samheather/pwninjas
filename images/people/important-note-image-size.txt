@@ -1,0 +1,2 @@
+Images should be square
+Try and target images of size 640px x 640px or bigger (but not much bigger or the file size is too big).

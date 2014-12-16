@@ -1,19 +1,9 @@
-.group {
-	width:100%;
-	background-color:red;
-}
-
 .personPanel {
 	margin:10px;
 	padding:0px;
-	max-width:300px;
-	height:530px;
+	max-width:320px;
 }
 
 .personPanelText {
 	padding:10px;
-}
-
-.pwNinja_img {
-	margin:20px;
 }
