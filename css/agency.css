@@ -118,7 +118,7 @@ h6 {
 }
 
 .background-image {
-    background-image: url(../img/43e39040.jpeg);
+    background-image: url(../img/background.png);
 }
 .btn-primary {
     border-color: #d50165;
@@ -317,7 +317,7 @@ header {
     text-align: left;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/background.jpg);
+    background-image: url(../img/background.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
